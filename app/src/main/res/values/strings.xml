@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Tremps</string>
+    <string name="ADD_TREMP">Add new Tremp</string>
+    <string name="title_activity_edit_tremp">EditTrempActivity</string><string name="title_activity_add_tremp">AddTrempActivity</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="HISTORY_OF_TREMPS">History Tremps</string>
+    <string name="BACK_TO_MAIN">Back to Main</string>
+    <string name="title_activity_edit_history_tremp">EditHistoryTrempActivity</string>
+
+</resources>
