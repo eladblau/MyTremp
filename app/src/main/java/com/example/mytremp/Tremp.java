@@ -97,6 +97,7 @@ public class Tremp implements Comparable<Tremp>{
 				+ ", gender=" + gender +  "]";
 	}
 
+    //Should be compered by DateTime
 	@Override
 	public int compareTo(Tremp another) {
 		int another_pcikUpNumber = Integer.parseInt(another.getNumberToPick());
